@@ -1,0 +1,7 @@
+{
+    "Python": {
+        "python": '/usr/local/bin/apython',
+        "pythonExtraPaths": ['/Users/ericahlgren/anaconda3/pkgs/networkx-2.0-py36hefccab9_0/lib/python3.6/site-packages',
+        ]
+    },
+}

@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__",
+				"__name__ == '__main__':〔variable〕"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"margin",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#!/usr/bin/env apython\n\nimport networkx as nx\n\nfrom operator import itemgetter\n\nfrom bokeh.io import show, output_file\nfrom bokeh.models import Plot, Range1d, MultiLine, Circle, HoverTool, TapTool, BoxSelectTool\nfrom bokeh.models.graphs import from_networkx, NodesAndLinkedEdges, EdgesAndLinkedNodes\nfrom bokeh.palettes import Spectral4\n\nif __name__ == '__main__':\n\n\tnx.",
+			"file": "NetworkViz.py",
+			"file_size": 407,
+			"file_write_time": 131573479038492540,
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				" repl python",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insr",
+				"Install Package Control"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 327.0,
+		"history":
+		[
+			"print (sys.version)",
+			"print sys.version",
+			"print sys.ver",
+			"sys.env",
+			"sys.path",
+			"sys.executable",
+			"print (sys.getprofile())",
+			"print sys.getprofile()",
+			"sys.getprofile()",
+			"sys.getprofile",
+			"dir(sys)",
+			"print (sys.version)",
+			"import sys",
+			"import os",
+			"print (sys.version)",
+			"env"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ericahlgren/Library/Application Support/Sublime Text 3/Packages/User/AnacondaPython.sublime-build",
+		"/Users/ericahlgren/.bash_profile",
+		"/Users/ericahlgren/.virtualenvs/selenium-py3/bin/activate",
+		"/Users/ericahlgren/.virtualenvs/gen-py3/bin/activate",
+		"/Users/ericahlgren/.virtualenvs/gen-py2/bin/activate",
+		"/Users/ericahlgren/Desktop/test.js",
+		"/Users/ericahlgren/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/ericahlgren/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/ipy_repl.py",
+		"/Users/ericahlgren/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/usr/local/bin/virtualenvwrapper.sh",
+		"/Users/ericahlgren/.bashrc",
+		"/Users/ericahlgren/Desktop/others.sh",
+		"/Users/ericahlgren/Desktop/proc.sh",
+		"/Users/ericahlgren/Desktop/arithmetic.sh",
+		"/Users/ericahlgren/Library/Application Support/pip/pip.conf",
+		"/Users/ericahlgren/Desktop/expan.sh",
+		"/Users/ericahlgren/Desktop/exp",
+		"/Users/ericahlgren/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Applications/NetBeans/NetBeans 8.2.app/Contents/Resources/NetBeans/etc/netbeans.conf",
+		"/Users/ericahlgren/Projects/earthquake2Midi/app/views.py",
+		"/Users/ericahlgren/Projects/earthquake2Midi/app/static/css/style.css",
+		"/Users/ericahlgren/Desktop/Certificates.pem",
+		"/Users/ericahlgren/Projects/earthquake2Midi/app/simple-https-server.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "NetworkViz.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/AnacondaPython.sublime-build",
+	"project": "NetworkViz.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
